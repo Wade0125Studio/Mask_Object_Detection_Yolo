@@ -35,7 +35,20 @@ Mask Object Detection  model weights URL:https://mega.nz/file/wq4lnbAS#TtPNHQiSu
 ![image](https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV4-Tensorflow2.X/img/maksssksksss627.png)![image](https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV4-Tensorflow2.X/img_out/maksssksksss627.png)
 
 
+------------
 
+<p align="center">YoloV5</font></p>
+
+<div align="center">
+<img src="https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV5-Tensorflow2.X/map_out/results/MAP.png">
+</div>
+
+<div align="center">
+<img src="https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV5-Tensorflow2.X/map_out/results/LAMR.png">
+</div>
+
+
+![image](https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV5-Tensorflow2.X/img/maksssksksss627.png)![image](https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV5-Tensorflow2.X/img_out/maksssksksss627.png)
 
 
 
