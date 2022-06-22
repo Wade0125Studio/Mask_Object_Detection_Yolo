@@ -1,8 +1,8 @@
-# Ocular Disease Recognition Transfer Learning
+# Mask Object Detection Yolo
  
-Ocular Disease Recognition Dataset URL:https://mega.nz/file/B5E3SZZb#ErZhyEw7WokbsCegBEpijcM9WXRT_SIK1l0aQj7A4Es
+Mask Object Detection Dataset URL:https://mega.nz/file/cihylKRJ#3JF8wHoUIDvlwmVP4cnpYzU7YymqOE5XcO1nwRmeiJM
 -------------
-Ocular Disease  model weight URL:https://mega.nz/file/gwkX1RzS#n4tLF9tzA2JiM-1WJllKekExZzmt70IM8Jx3s7a_rVA
+Mask Object Detection  model weights URL:https://mega.nz/file/wq4lnbAS#TtPNHQiSu5yu204_OrKvr9EVe_UmixB0zc52fMy9g7Y
 -------------
 
 ![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Show%20original%20data.png)
