@@ -1,0 +1,77 @@
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss351.png 143,67,257,195,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss778.png 57,21,88,59,1 84,108,123,147,1 176,53,202,81,1 223,36,252,70,1 315,87,379,146,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss799.png 29,66,47,82,1 45,41,65,63,1 11,217,65,263,1 84,239,134,285,1 304,210,325,230,1 317,249,333,266,1 340,251,369,275,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss80.png 214,54,291,132,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss738.png 82,43,123,83,1 211,27,244,70,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss27.png 163,88,251,185,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss690.png 25,54,43,76,1 58,67,76,88,1 132,62,152,85,1 115,51,127,65,1 143,52,154,63,1 154,61,172,77,1 170,55,177,69,1 173,106,192,127,1 186,60,198,74,1 205,58,217,74,1 216,59,233,78,1 238,66,254,84,1 252,71,271,93,1 275,75,297,99,1 282,44,294,61,1 299,55,316,73,1 316,57,332,71,2 345,50,362,67,1 366,53,385,73,1 332,57,341,68,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss230.png 16,191,92,265,1 124,92,183,147,1 196,39,249,93,1 307,180,388,260,1 424,153,512,242,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss132.png 106,72,190,182,0
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss669.png 60,121,219,301,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss791.png 124,121,213,264,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss57.png 101,251,162,355,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss606.png 224,102,256,135,1 133,126,158,149,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss288.png 28,201,52,216,1 143,93,175,126,1 198,97,229,125,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss721.png 102,200,200,330,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss233.png 109,117,180,198,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss537.png 95,177,195,295,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss777.png 49,146,102,201,1 26,82,70,122,1 73,48,102,78,1 137,42,163,74,1 187,52,220,86,1 226,47,248,70,2 285,35,322,71,1 363,32,397,72,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss666.png 21,12,103,114,1 188,100,283,204,1 298,2,398,91,0
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss9.png 148,75,201,133,0 27,78,56,106,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss134.png 92,19,117,50,1 156,22,177,48,2 179,24,197,47,1 183,74,205,100,1 269,70,285,89,1 343,15,359,34,2 302,43,318,59,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss745.png 146,228,223,328,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss35.png 132,44,208,123,1 330,67,375,114,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss712.png 90,213,171,321,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss785.png 159,90,217,164,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss124.png 91,146,143,204,1 239,126,290,182,1 378,146,399,171,1 1,170,20,196,2 333,133,360,170,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss104.png 42,109,66,140,2 2,105,22,125,2 30,88,46,105,2 133,108,174,152,1 221,101,256,139,1 304,131,331,158,2 83,85,96,96,2 167,91,180,108,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss178.png 91,41,126,76,1 193,86,214,112,2 245,90,265,112,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss761.png 136,67,187,121,0
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss307.png 3,65,96,163,0 146,28,249,140,1 287,180,343,225,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss123.png 92,106,191,224,1 227,129,321,229,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss538.png 27,81,33,86,2 122,80,142,104,1 249,57,275,86,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss13.png 28,54,44,71,1 98,62,114,80,1 162,51,194,89,0 293,60,313,81,1 352,53,373,71,1 229,53,241,72,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss473.png 53,79,91,123,2 110,49,144,83,1 244,28,276,67,1 300,75,332,112,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss114.png 4,83,75,161,2 80,58,153,141,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss483.png 115,47,157,87,1 186,90,231,130,1 307,42,347,84,1 69,64,89,81,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss189.png 124,48,143,96,2 201,89,235,121,2 226,15,271,66,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss145.png 91,89,114,111,0 183,102,203,122,0 310,96,333,119,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss725.png 45,215,138,336,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss804.png 72,31,94,51,1 107,91,125,108,1 177,45,196,63,1 357,43,374,60,1 269,50,284,64,1 237,46,251,58,1 221,54,232,66,1 26,45,37,55,1 112,34,122,45,1 132,43,140,52,1 152,45,160,53,1 386,49,393,56,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss283.png 77,206,170,323,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss392.png 168,76,292,211,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss798.png 185,62,272,130,1 164,238,262,322,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss801.png 73,92,92,118,1 158,112,181,130,1 192,99,202,111,1 34,96,41,108,1 291,92,300,105,1 311,97,320,108,1 221,90,236,108,2 263,100,279,120,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss259.png 68,213,144,306,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss291.png 136,259,200,359,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss754.png 14,140,32,161,1 113,113,131,137,1 165,116,183,137,1 206,89,228,114,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss339.png 89,210,180,303,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss126.png 106,45,158,104,1 194,62,215,88,1 226,2,267,97,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss623.png 4,202,30,230,1 38,179,64,206,1 57,164,78,187,0 30,109,47,126,2 26,76,42,98,1 4,70,18,88,1 23,2,43,22,2 109,9,130,29,1 93,58,115,75,1 97,111,115,133,1 136,214,164,240,1 195,173,220,193,1 212,190,241,215,1 188,94,211,117,1 181,58,206,79,1 185,28,208,46,1 247,111,266,131,1 254,56,275,78,1 287,55,310,78,1 359,149,387,167,1 345,75,369,95,1 320,41,338,59,1 319,15,337,30,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss127.png 98,46,130,80,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss802.png 36,9,60,29,1 133,35,153,56,1 180,71,202,94,1 312,76,344,109,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss546.png 27,177,140,311,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss39.png 157,107,223,184,1 239,97,347,219,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss775.png 77,66,130,108,1 277,53,329,99,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss96.png 102,97,140,135,1 64,151,110,201,2 251,88,282,124,2 296,153,335,195,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss766.png 86,177,188,305,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss364.png 83,56,117,95,1 179,51,212,87,1 263,62,295,101,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss755.png 46,44,61,69,1 36,98,47,121,1 75,139,84,160,1 89,35,113,57,1 127,25,147,49,1 250,126,274,153,1 248,71,269,96,1 330,24,350,48,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss326.png 164,77,230,152,1 192,116,276,183,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss261.png 36,149,69,181,1 207,64,239,99,1 213,234,259,277,1 125,156,159,194,2 137,100,172,135,2 136,25,166,46,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss693.png 156,47,183,80,0 90,39,123,72,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss733.png 143,72,271,199,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss800.png 62,71,76,85,1 184,76,198,92,1 248,61,265,79,1 317,65,334,81,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss740.png 143,60,168,89,1 275,52,299,80,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss190.png 143,75,222,155,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss469.png 166,100,243,175,1 254,125,315,172,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss302.png 199,124,242,169,1 149,28,190,84,1 266,52,278,69,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss87.png 129,284,211,387,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss398.png 153,122,251,223,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss470.png 52,28,100,75,1 95,63,123,91,1 151,58,188,101,1 276,40,304,88,1 344,56,377,90,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss590.png 66,189,172,316,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss639.png 32,35,89,96,1 241,56,261,77,1 336,47,367,80,1 186,62,200,93,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss486.png 94,89,98,92,1 18,92,26,98,2 116,87,124,94,2 142,70,164,92,1 192,90,212,109,1 259,99,274,112,1 229,92,237,99,2 376,96,384,102,1
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss852.png 139,94,198,147,1 92,86,132,125,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss279.png 290,80,341,135,1 48,237,79,266,2 117,248,147,266,2
+/home/student22/YoloV4-Tensorflow2.X/VOCdevkit/VOC2007/JPEGImages/maksssksksss479.png 116,156,225,302,1

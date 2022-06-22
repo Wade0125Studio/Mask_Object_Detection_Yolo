@@ -1,0 +1,8 @@
+mask_weared_incorrect 0.0033 150 127 179 163
+mask_weared_incorrect 0.0013 62 121 96 160
+with_mask 0.9198 149 128 180 162
+with_mask 0.9183 62 121 96 159
+with_mask 0.0062 175 145 192 169
+with_mask 0.0044 1 155 60 302
+with_mask 0.0031 -1 182 42 281
+without_mask 0.0016 150 127 180 162

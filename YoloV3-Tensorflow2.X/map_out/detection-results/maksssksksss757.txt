@@ -1,0 +1,2 @@
+mask_weared_incorrect 0.0031 108 155 228 400
+without_mask 0.9977 105 176 220 327
